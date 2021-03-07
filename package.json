@@ -1,0 +1,14 @@
+{
+  "name": "telegram-metal-bot",
+  "version": "1.0.0",
+  "description": "Small App to get current metal prices and send them to telegram channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Tryon",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
