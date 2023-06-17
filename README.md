@@ -1,4 +1,5 @@
-# telegram-metal-bot
+# MetalBot
+
 
 Extremely Simple Telegram Bot to send metal prices daily to myself using NodeJS and Telegram/Metal-API web services.
 
